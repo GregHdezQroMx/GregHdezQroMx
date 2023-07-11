@@ -6,7 +6,7 @@
 <a href="https://linkedin.com/in/greg-hernandez-956380a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="greg-hernandez-956380a8" height="30" width="40" /></a>
 <br>
 <br>
-<a src="https://sites.google.com/view/greg-hdez-mx-qro/inicio?authuser=0"/>Professional Portfolio</a>
+<a href="https://sites.google.com/view/greg-hdez-mx-qro/inicio?authuser=0"/>Professional Portfolio</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
