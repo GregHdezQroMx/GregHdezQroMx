@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/greg-hernandez-956380a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="greg-hernandez-956380a8" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/greg-hernandez-android-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="greg-hernandez-956380a8" height="30" width="40" /></a>
 <br>
 <br>
 <a href="https://sites.google.com/view/greg-hdez-mx-qro/inicio?authuser=0"/>Professional Portfolio</a>
